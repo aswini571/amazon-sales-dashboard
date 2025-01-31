@@ -23,4 +23,10 @@ factors.
 strategies, improve customer sa sfac on, and enhance overall business performance.
 
 Dashboard
+<a href ="https://github.com/aswini571/amazon-sales-dashboard/blob/main/as1.png"> view Dashboard</a>
+
+
+
+
+
 
